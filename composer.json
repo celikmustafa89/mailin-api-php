@@ -1,5 +1,5 @@
 {
-    "name": "epigra/sendinblue-api-php",
+    "name": "celikmustafa89/sendinblue-api-php",
     "description": "Sendinblue version-3 API",
     "license": "MIT",
     "require": {
