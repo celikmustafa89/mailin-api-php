@@ -4,6 +4,7 @@ This is the SendinBlue Php library. It implements the various exposed APIs that 
 
 SendinBlue API's use HTTP Authentication through an api key. You can create your api key from [API Console](https://my.sendinblue.com/advanced/apikey), after you sign up for an account with SendinBlue. You must use latest version 2.0, access key, for accessing APIs.
 
+This library 
 ## Installation & Configuration
 1. ```composer require celikmustafa89/sendinblue-api-php```
 2. following field must be added to .env file.
