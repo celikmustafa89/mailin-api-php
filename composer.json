@@ -1,6 +1,12 @@
 {
     "name": "celikmustafa89/sendinblue-api-php",
     "description": "Sendinblue version-3 API",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/celikmustafa89/sendinblue-api-php"
+        }
+    ],
     "license": "MIT",
     "require": {
         "php": ">=5.3",
