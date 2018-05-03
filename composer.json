@@ -1,6 +1,6 @@
 {
-    "name": "mailin-api/mailin-api-php",
-    "description": "Official SendinBlue provided API V2 wrapper",
+    "name": "epigra/sendinblue-api-php",
+    "description": "Sendinblue version-3 API",
     "license": "MIT",
     "require": {
         "php": ">=5.3",
@@ -14,7 +14,7 @@
             "dev-master": "1.0.x-dev"
         }
     },
-    "homepage": "https://github.com/mailin-api/mailin-api-php",
+    "homepage": "https://github.com/celikmustafa89/sendinblue-api-php",
     "authors": [ 
         {
             "name": "SendinBlue",
