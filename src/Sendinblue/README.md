@@ -3,7 +3,7 @@
 This is the SendinBlue Php library. It implements the various exposed APIs that you can read more about on https://apidocs.sendinblue.com.
 
 
-## Introduction
+## Example Codes
 You can use below sample script to get started.
 
 ```PHP
